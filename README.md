@@ -100,9 +100,9 @@ CGPA = Σ Credit Index of ALL semesters  ÷  Σ Credits of ALL semesters
 
 | Layer | Technology |
 |---|---|
-| 🖥️ **Frontend** | [Next.js](https://nextjs.org/) (React), TypeScript |
-| 🎨 **Styling** | [Tailwind CSS](https://tailwindcss.com/), [Lucide](https://lucide.dev/) icons |
-| 🐍 **Data collection** | Python (`requests`, `BeautifulSoup`) |
+| 🖥️ **Frontend** | [Next.js](https://nextjs.org/) |
+| 🎨 **Styling** | [Tailwind CSS](https://tailwindcss.com/) |
+| 🐍 **Data collection** | Python |
 | 🗄️ **Database (local only)** | SQLite |
 | 📦 **Data export** | Python script that generates static JSON |
 | ☁️ **Hosting** | [Vercel](https://vercel.com/) |
