@@ -105,9 +105,9 @@ CGPA = Σ Credit Index of ALL semesters  ÷  Σ Credits of ALL semesters
 | 🐍 **Data collection** | Python (`requests`, `BeautifulSoup`) |
 | 🗄️ **Database (local only)** | SQLite |
 | 📦 **Data export** | Python script that generates static JSON |
-| ☁️ **Hosting** | [Vercel](https://vercel.com/) (free plan) |
+| ☁️ **Hosting** | [Vercel](https://vercel.com/) |
 | 🔀 **Version control** | Git and GitHub |
-| 🤖 **Development** | Built with the help of AI coding assistants (vibe coding) |
+| 🤖 **Development** | Built with the help of AI coding assistants (Antigravity + Claude) |
 
 ---
 
