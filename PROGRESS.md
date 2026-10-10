@@ -69,8 +69,8 @@ Tick 'X' on each step after completing
 - [X] Pagination "Previous" cut off and "Next" needs horizontal scroll — make pagination a horizontally scrollable strip with compact buttons.
 - [X] Mobile scroll laggy — reduce BeamsBackground intensity/beams on mobile, lower DPR, reduce PER_PAGE 40 → 25.
 
-[ ] Phase 5: Production
-  [ ] Deployment
+[X] Phase 5: Production
+  [X] Deployment
 
 ## Key Decisions
 - Python (requests + BeautifulSoup) for scraping
