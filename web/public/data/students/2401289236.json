@@ -1,0 +1,603 @@
+{
+  "registration_number": "2401289236",
+  "name": "ASHUTOSH PATRA",
+  "branch": "B.Tech.(MECHANICAL ENGINEERING)",
+  "college": "Trident Academy of Technology, Bhubaneswar",
+  "photo_url": "https://results.bput.ac.in/171224170223422.jpg",
+  "cgpa": 7.39,
+  "original_cgpa": 6.94,
+  "total_credits": 88.0,
+  "overall_rank": 196,
+  "total_students": 435,
+  "class_rank": 2,
+  "class_total": 11,
+  "semesters": [
+    {
+      "semester": 1,
+      "sgpa": 6.41,
+      "original_sgpa": 6.41,
+      "credits": 22.0,
+      "credit_index": 141.0,
+      "subjects": [
+        {
+          "subject_code": "23BS1001",
+          "subject_name": "Mathematics - I",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "F(Ex)",
+          "best_grade_points": 2,
+          "credit_index": 6.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23BS1003",
+          "subject_name": "Chemistry",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23BS1202",
+          "subject_name": "Chemistry Laboratory",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1002",
+          "subject_name": "Basic Electronics",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 12.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1004",
+          "subject_name": "Engineering Mechanics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1006",
+          "subject_name": "Basic Mechanical Engineering",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "D",
+          "best_grade_points": 5,
+          "credit_index": 10.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1202",
+          "subject_name": "Basic Electronics Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1204",
+          "subject_name": "Communicative English & Report Writing Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1206",
+          "subject_name": "Workshop & Digital Manufacturing Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23HS1002",
+          "subject_name": "English for Technical Writing",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 14.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23MC1201",
+          "subject_name": "Sports / Yoga / NCC / NSS",
+          "subject_type": "P",
+          "credits": 1.0,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 9.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "6.41",
+      "sgpa_calculated": 6.41
+    },
+    {
+      "semester": 2,
+      "sgpa": 7.36,
+      "original_sgpa": 5.59,
+      "credits": 22.0,
+      "credit_index": 162.0,
+      "subjects": [
+        {
+          "subject_code": "23BS1002",
+          "subject_name": "Physics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": true
+        },
+        {
+          "subject_code": "23BS1004",
+          "subject_name": "Mathematics - II",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": true
+        },
+        {
+          "subject_code": "23BS1201",
+          "subject_name": "Physics Laboratory",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1001",
+          "subject_name": "Basic Electrical Engineering",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "D",
+          "best_grade_points": 5,
+          "credit_index": 10.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1003",
+          "subject_name": "Programming in C and Data Structure",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 21.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": true
+        },
+        {
+          "subject_code": "23ES1005",
+          "subject_name": "Basic Civil Engineering",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1201",
+          "subject_name": "Basic Electrical Engineering Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1203",
+          "subject_name": "Programming Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1205",
+          "subject_name": "Engineering Graphics & Design Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23HS1001",
+          "subject_name": "Universal Human Values",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 12.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23MC1202",
+          "subject_name": "Sports / Yoga / NCC / NSS",
+          "subject_type": "P",
+          "credits": 1.0,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 10.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "5.59",
+      "sgpa_calculated": 5.59
+    },
+    {
+      "semester": 3,
+      "sgpa": 7.32,
+      "original_sgpa": 7.32,
+      "credits": 22.0,
+      "credit_index": 161.0,
+      "subjects": [
+        {
+          "subject_code": "HSBS2001",
+          "subject_name": "Mathematics - III",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "HSHS2002",
+          "subject_name": "Organizational Behaviour",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2001",
+          "subject_name": "Mechanics of Solids",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2002",
+          "subject_name": "Engineering Thermodynamics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2201",
+          "subject_name": "Machine Drawing and Solid Modelling",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2202",
+          "subject_name": "Material Testing Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2203",
+          "subject_name": "Thermal Engineering Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MFPC2002",
+          "subject_name": "Introduction to Physical Metallurgy and Engineering Materials",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "PCAC2005",
+          "subject_name": "Programming Internet of Things",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "PCAC2205",
+          "subject_name": "Programming Internet of Things Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "7.32",
+      "sgpa_calculated": 7.32
+    },
+    {
+      "semester": 4,
+      "sgpa": 8.45,
+      "original_sgpa": 8.45,
+      "credits": 22.0,
+      "credit_index": 186.0,
+      "subjects": [
+        {
+          "subject_code": "HSHS2001",
+          "subject_name": "Engineering Economics",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2003",
+          "subject_name": "Fluid Mechanics and Hydraulic Machines",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 27.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2004",
+          "subject_name": "Kinematics and Dynamics of Machines",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2005",
+          "subject_name": "Design of Machine Elements-I",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 21.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2006",
+          "subject_name": "Basic Manufacturing Processes",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2205",
+          "subject_name": "Basic Manufacturing Processes Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2206",
+          "subject_name": "Fluid Mechanics and Fluid Machinery Laboratory",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2207",
+          "subject_name": "Machines and Mechanisms Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "MEPC2208",
+          "subject_name": "Design of Machine Elements-I Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "PCAC2012",
+          "subject_name": "Internet of Things and Cloud",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 14.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "8.45",
+      "sgpa_calculated": 8.45
+    }
+  ],
+  "back_papers": [
+    {
+      "subject_code": "23BS1001",
+      "subject_name": "Mathematics - I",
+      "original_semester": 1,
+      "attempts": [
+        {
+          "session": "Odd-(2024-25)",
+          "grade": "F(Ex)",
+          "grade_points": 2,
+          "is_pass": false
+        },
+        {
+          "session": "Odd-(2025-26)",
+          "grade": "F(Ex)",
+          "grade_points": 2,
+          "is_pass": false
+        }
+      ]
+    },
+    {
+      "subject_code": "23BS1002",
+      "subject_name": "Physics",
+      "original_semester": 2,
+      "attempts": [
+        {
+          "session": "Even-(2024-25)",
+          "grade": "F(Ex)",
+          "grade_points": 2,
+          "is_pass": false
+        },
+        {
+          "session": "Even-(2025-26)",
+          "grade": "C",
+          "grade_points": 6,
+          "is_pass": true
+        }
+      ]
+    },
+    {
+      "subject_code": "23BS1004",
+      "subject_name": "Mathematics - II",
+      "original_semester": 2,
+      "attempts": [
+        {
+          "session": "Even-(2024-25)",
+          "grade": "F(Ex)",
+          "grade_points": 2,
+          "is_pass": false
+        },
+        {
+          "session": "Even-(2025-26)",
+          "grade": "C",
+          "grade_points": 6,
+          "is_pass": true
+        }
+      ]
+    },
+    {
+      "subject_code": "23ES1003",
+      "subject_name": "Programming in C and Data Structure",
+      "original_semester": 2,
+      "attempts": [
+        {
+          "session": "Even-(2024-25)",
+          "grade": "F(Ex)",
+          "grade_points": 2,
+          "is_pass": false
+        },
+        {
+          "session": "Even-(2025-26)",
+          "grade": "B",
+          "grade_points": 7,
+          "is_pass": true
+        }
+      ]
+    }
+  ],
+  "source": "BPUT (Biju Patnaik University of Technology)",
+  "disclaimer": "Results are provisional and sourced from BPUT. This is an unofficial aggregation.",
+  "fetched_on": "2026-10-04 11:00:59"
+}

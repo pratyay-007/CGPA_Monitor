@@ -1,0 +1,526 @@
+{
+  "registration_number": "2401289156",
+  "name": "SWAYAM PRAJNA MOHANTY",
+  "branch": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
+  "college": "Trident Academy of Technology, Bhubaneswar",
+  "photo_url": "https://results.bput.ac.in/171224164446926.jpg",
+  "cgpa": 7.67,
+  "original_cgpa": 7.67,
+  "total_credits": 88.0,
+  "overall_rank": 142,
+  "total_students": 435,
+  "class_rank": 52,
+  "class_total": 136,
+  "semesters": [
+    {
+      "semester": 1,
+      "sgpa": 8.05,
+      "original_sgpa": 8.05,
+      "credits": 22.0,
+      "credit_index": 177.0,
+      "subjects": [
+        {
+          "subject_code": "23BS1001",
+          "subject_name": "Mathematics - I",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 21.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23BS1002",
+          "subject_name": "Physics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23BS1201",
+          "subject_name": "Physics Laboratory",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1001",
+          "subject_name": "Basic Electrical Engineering",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 12.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1004",
+          "subject_name": "Engineering Mechanics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1005",
+          "subject_name": "Basic Civil Engineering",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1201",
+          "subject_name": "Basic Electrical Engineering Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1204",
+          "subject_name": "Communicative English & Report Writing Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1205",
+          "subject_name": "Engineering Graphics & Design Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23HS1001",
+          "subject_name": "Universal Human Values",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23MC1201",
+          "subject_name": "Sports / Yoga / NCC / NSS",
+          "subject_type": "P",
+          "credits": 1.0,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 10.0,
+          "from_session": "Odd-(2024-25)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "8.05",
+      "sgpa_calculated": 8.05
+    },
+    {
+      "semester": 2,
+      "sgpa": 7.77,
+      "original_sgpa": 7.77,
+      "credits": 22.0,
+      "credit_index": 171.0,
+      "subjects": [
+        {
+          "subject_code": "23BS1003",
+          "subject_name": "Chemistry",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 21.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23BS1004",
+          "subject_name": "Mathematics - II",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23BS1202",
+          "subject_name": "Chemistry Laboratory",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1002",
+          "subject_name": "Basic Electronics",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 12.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1003",
+          "subject_name": "Programming in C and Data Structure",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1006",
+          "subject_name": "Basic Mechanical Engineering",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 14.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1202",
+          "subject_name": "Basic Electronics Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1203",
+          "subject_name": "Programming Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23ES1206",
+          "subject_name": "Workshop & Digital Manufacturing Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23HS1002",
+          "subject_name": "English for Technical Writing",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 12.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "23MC1202",
+          "subject_name": "Sports / Yoga / NCC / NSS",
+          "subject_type": "P",
+          "credits": 1.0,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 10.0,
+          "from_session": "Even-(2024-25)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "7.77",
+      "sgpa_calculated": 7.77
+    },
+    {
+      "semester": 3,
+      "sgpa": 7.07,
+      "original_sgpa": 7.07,
+      "credits": 22.0,
+      "credit_index": 155.5,
+      "subjects": [
+        {
+          "subject_code": "CSPC2002",
+          "subject_name": "Data Structures",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2003",
+          "subject_name": "Object Oriented Programming",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2202",
+          "subject_name": "Data Structures Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2203",
+          "subject_name": "Object Oriented Programming Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "EOPC2004",
+          "subject_name": "Digital Electronics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "S",
+          "best_grade_points": 0,
+          "credit_index": 0.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "EOPC2204",
+          "subject_name": "Digital Electronics Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "HSBS2001",
+          "subject_name": "Mathematics - III",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 21.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "HSHS2001",
+          "subject_name": "Engineering Economics",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 12.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "PCAC2003",
+          "subject_name": "Web and Application Development",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 16.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "PCAC2203",
+          "subject_name": "Web and Application Development Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Odd-(2025-26)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "7.07",
+      "sgpa_calculated": 7.07
+    },
+    {
+      "semester": 4,
+      "sgpa": 7.8,
+      "original_sgpa": 7.8,
+      "credits": 22.0,
+      "credit_index": 171.5,
+      "subjects": [
+        {
+          "subject_code": "CSBS2001",
+          "subject_name": "Discrete Mathematics",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2004",
+          "subject_name": "Database Engineering",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "A",
+          "best_grade_points": 8,
+          "credit_index": 24.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2005",
+          "subject_name": "Computer Organization and Architecture",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "C",
+          "best_grade_points": 6,
+          "credit_index": 18.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2006",
+          "subject_name": "Design and Analysis of Algorithms",
+          "subject_type": "T",
+          "credits": 3.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 21.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2204",
+          "subject_name": "Database Engineering Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 13.5,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2205",
+          "subject_name": "Computer Organization and Architecture Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2206",
+          "subject_name": "Design and Analysis of Algorithms Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "CSPC2208",
+          "subject_name": "Advanced Programming Lab.",
+          "subject_type": "P",
+          "credits": 1.5,
+          "best_grade": "O",
+          "best_grade_points": 10,
+          "credit_index": 15.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "HSHS2002",
+          "subject_name": "Organizational Behaviour",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "E",
+          "best_grade_points": 9,
+          "credit_index": 18.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        },
+        {
+          "subject_code": "PCAC2010",
+          "subject_name": "Application Development - Tools & Technologies",
+          "subject_type": "T",
+          "credits": 2.0,
+          "best_grade": "B",
+          "best_grade_points": 7,
+          "credit_index": 14.0,
+          "from_session": "Even-(2025-26)",
+          "is_backpaper": false
+        }
+      ],
+      "sgpa_bput": "7.8",
+      "sgpa_calculated": 7.8
+    }
+  ],
+  "back_papers": [],
+  "source": "BPUT (Biju Patnaik University of Technology)",
+  "disclaimer": "Results are provisional and sourced from BPUT. This is an unofficial aggregation.",
+  "fetched_on": "2026-10-04 11:00:59"
+}
